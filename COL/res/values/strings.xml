@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">COL</string>
+    <color name="Nero">#000</color>
+    <color name="Bianco">#FFFFFF</color>
+    <color name="Argento">#C0C0C0</color>
+    <color name="Carbone">#050402</color>
+    <color name="Grigio_settatapercento">#4F4F4F</color>
+    <color name="Grigio_cenere">#E4E5E0</color>
+    <string name="Play">Play</string>
+    <string name="Riproduzione">In Riproduzione:</string>
+    <string name="inital_Time">0 min 0 sec</string>
+    
+
+</resources>

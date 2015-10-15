@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Applicazione</string>
+    <string name="benvenuto">Benvenuto! app ancora in fase di sviluppo</string>
+    <color name="bianco">#FFFFFF</color>
+    <string name="credits">credits</string>
+    <string name="pagina2">Logo</string>
+    <string name="home">home</string>
+
+</resources>
