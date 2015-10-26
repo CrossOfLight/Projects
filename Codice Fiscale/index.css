@@ -1,0 +1,59 @@
+body 	{
+            /* Setting body margins to 0 to have proper positioning of #container div */
+            margin: 0;
+            background-size:cover;
+            background:url(http://imgstocks.com/wp-content/uploads/2013/10/Abstract-fire-lines-wallpapers-hd-1206-wallpaper-runpict-com.jpg) no-repeat center fixed; ;
+			
+            
+             }
+    	    #colormain{
+    	     background-color:null;
+    	     font-size: 25px;
+    	     text-align:center;
+    	     
+    	    }
+    	    
+    	    #colortitle{
+    	     color:cyan;
+             text-align:center;
+             font-size: 25px;
+    	    }
+    	    
+    	    #color1{
+    	     color:white;
+             font-size: 25px;
+    	    }
+    	    
+    	    #color2{
+    	     color:white;
+             font-size: 25px;
+             }
+            
+            #color3{
+             color:white;
+             font-size: 25px;
+            }
+            
+            #color4 {
+             color:white;
+             font-size: 25px;
+            }
+            
+            #color5 {
+             color:white;
+             font-size: 25px;
+            }
+           
+           
+           
+
+ 
+ 
+ 
+            /* #container div with absolute position and 100% width and height so it takes up whole window */
+#container {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+           
+	        }         	        }
